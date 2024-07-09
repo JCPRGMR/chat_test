@@ -1,0 +1,11 @@
+.noti{
+    animation: right ease-in .5s;
+}
+@keyframes right {
+    from{
+        right: -300px;
+    }
+    to{
+        right: 10px;
+    }
+}

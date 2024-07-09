@@ -1,0 +1,19 @@
+========================= LOGIN =========================
+
+1. Agregar un validador de usuario con una alerta que indue
+   de si el usuario existe o no.
+
+2. El login debe tener la opcion de recuperar contrasena.
+
+2.1 Cuando se desee recuperar contrasena esta debe hacerse
+    a travez de una clave de usuario aleatoria.
+
+3. Si el usuario accede correctamente agregar opciones de cierre.
+    * Cerrar sesion / suspender
+    * Cerrar sesion del dispositivo
+
+3.1 Si se cierra la sesion o suspende el login solo debe pedir
+    la contraseña.
+
+3.2 Si se cierra la sesion del dispositivo el login debe pedir
+    el usuario y la contrasena
